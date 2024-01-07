@@ -1,2 +1,2 @@
 # testrepo
-# Transitioning into a different career space
+# Learning mode
